@@ -1,0 +1,1 @@
+# shutter-pro-automation
